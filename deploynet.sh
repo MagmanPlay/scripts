@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Путь к директории ноды
-DIR="/opt/remnawave"
+DIR="/opt/remnanode"
 FILE="$DIR/docker-compose.yml"
 
 echo "Начинаем работу в $DIR..."
